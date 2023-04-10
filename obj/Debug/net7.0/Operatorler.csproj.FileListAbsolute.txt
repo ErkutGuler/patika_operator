@@ -1,0 +1,15 @@
+C:\Users\Kodlama\Desktop\Visual Studio Code\Operatörler\bin\Debug\net7.0\Operatorler.exe
+C:\Users\Kodlama\Desktop\Visual Studio Code\Operatörler\bin\Debug\net7.0\Operatorler.deps.json
+C:\Users\Kodlama\Desktop\Visual Studio Code\Operatörler\bin\Debug\net7.0\Operatorler.runtimeconfig.json
+C:\Users\Kodlama\Desktop\Visual Studio Code\Operatörler\bin\Debug\net7.0\Operatorler.dll
+C:\Users\Kodlama\Desktop\Visual Studio Code\Operatörler\bin\Debug\net7.0\Operatorler.pdb
+C:\Users\Kodlama\Desktop\Visual Studio Code\Operatörler\obj\Debug\net7.0\Operatorler.csproj.AssemblyReference.cache
+C:\Users\Kodlama\Desktop\Visual Studio Code\Operatörler\obj\Debug\net7.0\Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kodlama\Desktop\Visual Studio Code\Operatörler\obj\Debug\net7.0\Operatorler.AssemblyInfoInputs.cache
+C:\Users\Kodlama\Desktop\Visual Studio Code\Operatörler\obj\Debug\net7.0\Operatorler.AssemblyInfo.cs
+C:\Users\Kodlama\Desktop\Visual Studio Code\Operatörler\obj\Debug\net7.0\Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\Kodlama\Desktop\Visual Studio Code\Operatörler\obj\Debug\net7.0\Operatorler.dll
+C:\Users\Kodlama\Desktop\Visual Studio Code\Operatörler\obj\Debug\net7.0\refint\Operatorler.dll
+C:\Users\Kodlama\Desktop\Visual Studio Code\Operatörler\obj\Debug\net7.0\Operatorler.pdb
+C:\Users\Kodlama\Desktop\Visual Studio Code\Operatörler\obj\Debug\net7.0\Operatorler.genruntimeconfig.cache
+C:\Users\Kodlama\Desktop\Visual Studio Code\Operatörler\obj\Debug\net7.0\ref\Operatorler.dll
